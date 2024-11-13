@@ -13,5 +13,5 @@ setup(
     ),
     packages=["night_dust"],
     zip_safe=False,
-    install_requires=["cython"],
+    install_requires=["Cython"],
 )
